@@ -18,4 +18,4 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/Doocxp/Doocxp/blob/output/github-contribution-grid-snake-svg)
+![Snake animation](https://github.com/Doocxp/Doocxp/blob/output/github-contribution-grid-snake.svg)
