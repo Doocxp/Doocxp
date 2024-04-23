@@ -1,4 +1,4 @@
-## Hello, my name is Luiz and, welcome to my profile!
+## Hello, my name is Luiz, and, welcome to my profile!
 
 ### My Social Medias
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.guilhermesoutto@gmail.com)
