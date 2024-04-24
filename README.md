@@ -10,7 +10,7 @@ Currently, I dedicate part of my time to freelance projects, while the rest is d
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luiz.guilhermesoutto@gmail.com)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-guilherme-da-silva-souto-5932b0233/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doocxp&show_icons=true&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doocxp&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doocxp&layout=donut&theme=outrun)](https://github.com/Doocxp/github-readme-stats)
 
 ## Dominant Technologies
